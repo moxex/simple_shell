@@ -2,7 +2,7 @@
 
 ## Description
 
-This Simple Shell project is a collaboration between Moses Eyime Akoji and Timothy Adeshola Who are Software Engineers studing as students of ALX school. This project consists of developing and making our own UNIX command interpreter (Shell).
+This Simple Shell project is a collaboration between Moses Eyime Akoji and Timothy Adebatele Who are Software Engineers studing as students of ALX school. This project consists of developing and making our own UNIX command interpreter (Shell).
 
 This Simple_shell program can be compiled and launched from the command line, where its main function is to execute commands read from the standard input.
 
@@ -24,4 +24,4 @@ pwd - Print the absolute pathname
 ## Authors
 
 . Moses Eyime Akoji and 
-. Timothy Adeshola
+. Timothy Adebatele
